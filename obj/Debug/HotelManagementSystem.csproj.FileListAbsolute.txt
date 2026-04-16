@@ -1,0 +1,36 @@
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.AssemblyReference.cache
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.frmLogin.resources
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmMain.resources
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmLoaiPhong.resources
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmDatPhong.resources
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmQLPhong.resources
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmPhanQuyen.resources
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmSuaThongTin.resources
+D:\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe.config
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe.config
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.exe
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementSystem.pdb
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.AssemblyReference.cache
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmDatPhong.resources
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmLoaiPhong.resources
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.frmLogin.resources
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmMain.resources
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmPhanQuyen.resources
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmQLPhong.resources
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmSuaThongTin.resources
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.exe
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.pdb
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmKhachHang.resources
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmQLDichVu.resources
+C:\Documents\ĐỒ ÁN\Công Nghệ.NET\Đồ án QL_KhachSan\Đồ án QL_KhachSan\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Forms.frmSDDichVu.resources

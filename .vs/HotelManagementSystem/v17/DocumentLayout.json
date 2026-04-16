@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|d:\\kieu oanh\\\u0111\u1ED3 \u00E1n\\\u0111\u1ED3 \u00E1n ql_khachsan\\hotelmanagementsystem\\hotelmanagementsystem\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmqlphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmsuathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmsuathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmsuathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmsuathongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\hotelmanagementsystem\\classes\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99286FA2-8018-4C81-BE30-5CE6FAE8850F}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\classes\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmMain.cs",
+              "ToolTip": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmMain.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Forms\\frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:13:37.157Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmMain.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmMain.cs",
+              "ToolTip": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmMain.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Forms\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:04:19.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmLogin.cs",
+              "ToolTip": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmLogin.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Forms\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T05:59:09.315Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmDatPhong.cs [Design]",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmDatPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmDatPhong.cs",
+              "ToolTip": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmDatPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Forms\\frmDatPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T11:52:10.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmDatPhong.cs",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmDatPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmDatPhong.cs",
+              "ToolTip": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmDatPhong.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Forms\\frmDatPhong.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAqwMMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T12:17:48.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLoaiPhong.cs [Design]",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmLoaiPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmLoaiPhong.cs",
+              "ToolTip": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmLoaiPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Forms\\frmLoaiPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T09:42:16.774Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmQLPhong.cs [Design]",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmQLPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmQLPhong.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmQLPhong.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmQLPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T15:43:15.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmQLPhong.cs",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmQLPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmQLPhong.cs",
+              "ToolTip": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmQLPhong.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Forms\\frmQLPhong.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAqwCwBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T15:46:31.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmSuaThongTin.cs",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmSuaThongTin.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmSuaThongTin.cs",
+              "ToolTip": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmSuaThongTin.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Forms\\frmSuaThongTin.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAqwKkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:15:44.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmPhanQuyen.cs",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmPhanQuyen.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmPhanQuyen.cs",
+              "ToolTip": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmPhanQuyen.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Forms\\frmPhanQuyen.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAmwHMBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T15:09:50.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmPhanQuyen.cs [Design]",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmPhanQuyen.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmPhanQuyen.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmPhanQuyen.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmPhanQuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:52:39.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmSuaThongTin.cs [Design]",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmSuaThongTin.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmSuaThongTin.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmSuaThongTin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmSuaThongTin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T16:19:31.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Forms\\frmLogin.cs",
+              "ToolTip": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Forms\\frmLogin.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Forms\\frmLogin.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:53:20.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Classes\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Classes\\DatabaseConnection.cs",
+              "ToolTip": "D:\\Kieu Oanh\\\u0110\u1ED3 \u00C1n\\\u0110\u1ED3 \u00E1n QL_KhachSan\\HotelManagementSystem\\HotelManagementSystem\\Classes\\DatabaseConnection.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Classes\\DatabaseConnection.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T08:09:26.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
